@@ -12,7 +12,7 @@ Frameworks-> Add existing framework->libsql3.dylib
 	# import "DCFSQLite.h"
 	
 	//Init database 
-	[DCFSQLite initWithDB:@"myapp.db"];
+	[DCFSQLite initDB:@"myapp.db"];
 	
 	// To create, insert, update and delete
 	BOOL ok = [DCFSQLite execSQL:@"INSERT INTO Customer (name, email) VALUES ('Diego', 'diegocfreire@gmail.com')"];
