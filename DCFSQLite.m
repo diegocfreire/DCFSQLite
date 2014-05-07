@@ -39,7 +39,7 @@
 
 #pragma mark - Public Methods
 
-+ (void)initWithDB:(NSString *)database
++ (void)initDB:(NSString *)database
 {
     [DCFSQLite shared].database = database;
 }
