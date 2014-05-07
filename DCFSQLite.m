@@ -292,8 +292,6 @@
     if (self.database != nil) {
         databasePath = [documentsDirectory stringByAppendingPathComponent:self.database];
     }else{
-        //[[[UIAlertView alloc] initWithTitle:@"Alert" message:@"It is necessary to initialize the database name of the sqlite" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil] show];
-        
         return NO;
     }
     
