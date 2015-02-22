@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/diegocfreire/DCFSQLite.png)](http://travis-ci.org/#!/diegocfreire/DCFSQLite) 
+[![Build Status](https://travis-ci.org/diegocfreire/DCFSQLite.svg?branch=master)](https://travis-ci.org/diegocfreire/DCFSQLite)
 
 DCFSQLite
 =========
