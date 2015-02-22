@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diegocfreire/DCFSQLite.png)](http://travis-ci.org/#!/diegocfreire/DCFSQLite) 
+
 DCFSQLite
 =========
 
